@@ -1,7 +1,7 @@
 # Hi there, I'm Michael Adu! 👋
 
 <div align="center">
-  
+
 [![Credly Profile](https://img.shields.io/badge/Credly-20+_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/michael-adu)
 [![Data Science](https://img.shields.io/badge/IBM-Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/users/michael-adu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
@@ -12,10 +12,10 @@
 
 ## 🔬 About Me
 
-- 🏥 **Data Analyst** at The Aurum Institute
+- 📊 **Data Analyst** at The Aurum Institute
 - 💊 **PharmD** specializing in Data Science & AMR Surveillance
 - 🇬🇭 Based in **Accra, Ghana**
-- 🧬 Working on **antimicrobial resistance surveillance tools** and health data analysis
+- 🦠 Working on **antimicrobial resistance surveillance tools** and health data analysis
 - 🌍 Contributing to **global health** through data-driven solutions
 
 ---
@@ -30,83 +30,108 @@
 
 #### IBM Data Science Professional Certificate
 - ✅ Applied Data Science Capstone
-- ✅ Machine Learning with Python  
+- ✅ Machine Learning with Python
 - ✅ Data Visualization with Python
 - ✅ Databases and SQL for Data Science
 - ✅ Python for Data Science and AI
 - ✅ Data Science Methodology
 - ✅ Tools for Data Science
 - ✅ Data Science Orientation
+- ✅ Python Project for Data Science
 
 </td>
 <td width="50%">
 
-#### Other Data Science Badges
-- ✅ Python Project for Data Science
+#### Software Engineering & DevOps
+- ✅ Software Engineering Essentials
+- ✅ DevOps Essentials  
+- ✅ Introduction to Cloud Computing
+- ✅ Introduction to Agile Development and Scrum
+- ✅ Git and GitHub Essentials
+- ✅ Linux Commands & Shell Scripting Essentials V2
 - ✅ Python Project for AI and Application Development
 
 </td>
 </tr>
 </table>
 
----
-
-### 💻 Software Development & DevOps
-
-- ✅ **DevOps Essentials** - Coursera/IBM
-- ✅ **Software Engineering Essentials** - Coursera/IBM  
-- ✅ **Git and GitHub Essentials** - Coursera/IBM
-- ✅ **Linux Commands & Shell Scripting Essentials V2** - Coursera/IBM
+#### 📢 Digital Marketing Certifications
+- ✅ **Google Digital Marketing and E-Commerce Professional Certificate**
+- ✅ **Meta Social Media Marketing Professional Certificate**
+- ✅ **Meta Certified Digital Marketing Associate** (Expired Mar 2025)
 
 ---
 
-### ☁️ Cloud & Infrastructure
+## 🛠️ Technical Skills & Expertise
 
-- ✅ **Introduction to Cloud Computing** - Coursera/IBM
-
----
-
-### 📱 Digital Marketing
-
-- 🏆 **Google Digital Marketing & E-Commerce Professional Certificate** - Google/Coursera
-- 🏆 **Meta Social Media Marketing Professional Certificate** - Meta/Coursera
-- ❌ **Meta Certified Digital Marketing Associate** - Meta (Expired Mar 2025)
-
----
-
-### 🎯 Agile & Project Management
-
-- ✅ **Introduction to Agile Development and Scrum** - Coursera/IBM
-
----
-
-## 🏆 View All My Certifications
-
-<div align="center">
-
-### 🔗 [**Complete Credly Badge Portfolio (20+ Certifications)**](https://www.credly.com/users/michael-adu)
-
-*Click above to view all my verified digital badges and certifications on Credly*
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
+### 💻 Programming & Data Science
 ```python
-# Data Science & Analytics
-data_science = ['Python', 'R', 'SQL', 'Machine Learning', 'Data Visualization', 'Statistical Analysis']
+# Core Programming Languages
+languages = ['Python', 'R', 'SQL', 'Shell/Bash']
 
-# Tools & Technologies
-tools = ['Jupyter Notebooks', 'Git/GitHub', 'Docker', 'Linux/Unix', 'Cloud Computing', 'Streamlit']
+# Data Science & Machine Learning
+data_science = {
+    'analysis': ['Pandas', 'NumPy', 'SciPy'],
+    'visualization': ['Matplotlib', 'Seaborn', 'Folium', 'Bokeh'],
+    'machine_learning': ['Scikit-learn', 'Classification', 'Regression', 'Clustering'],
+    'ml_techniques': ['Recommender Systems', 'AI/ML Models'],
+    'databases': ['SQL', 'DB2', 'Relational Databases']
+}
+
+# Software Engineering & DevOps
+engineering = {
+    'version_control': ['Git', 'GitHub'],
+    'devops': ['CI/CD', 'DevOps Methodologies', 'Agile/Scrum'],
+    'cloud': ['IBM Cloud', 'Cloud Computing'],
+    'tools': ['Jupyter Notebooks', 'RStudio', 'Watson', 'Zeppelin'],
+    'os': ['Linux', 'Unix', 'Shell Scripting']
+}
 
 # Domain Expertise
-domains = ['Healthcare Data Analytics', 'AMR Surveillance', 'Public Health', 'Pharmaceutical Sciences']
-
-# Specializations
-specializations = ['GLASS Data Standardization', 'WHONET Integration', 'Clinical Data Analysis']
+domains = [
+    'Healthcare Data Analytics',
+    'Antimicrobial Resistance Surveillance',
+    'Public Health Data Systems',
+    'Pharmaceutical Sciences',
+    'GLASS Data Standardization',
+    'WHONET Integration',
+    'Clinical Data Analysis'
+]
 ```
+
+### 🔧 Technical Competencies
+
+**Data Science Methodology**
+- Data collection, cleaning, and preprocessing
+- Exploratory data analysis (EDA)
+- Statistical analysis and hypothesis testing
+- Machine learning model development and evaluation
+- Data visualization and storytelling
+
+**Software Development**
+- Software Development Lifecycle (SDLC)
+- System architecture and software architecture design
+- Basic programming constructs and best practices
+- Version control with Git/GitHub
+- Agile and Scrum methodologies
+
+**DevOps & Cloud**
+- Cloud computing fundamentals
+- DevOps practices and CI/CD pipelines
+- Linux/Unix system administration
+- Shell scripting and automation
+
+---
+
+## 📈 Career Focus
+
+🎯 **Current Work**: Developing data analysis tools for antimicrobial resistance surveillance, integrating WHONET data with GLASS reporting standards, and building health data pipelines for public health decision-making.
+
+🚀 **Career Goals**: 
+- Advancing towards **Data Science Manager** and **Machine Learning Engineer** roles
+- Building AI/ML solutions for healthcare in Africa
+- Contributing to global health data standards and AMR surveillance
+- Pursuing advanced studies in Biostatistics
 
 ---
 
