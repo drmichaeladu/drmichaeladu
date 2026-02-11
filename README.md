@@ -1,10 +1,10 @@
-# Hi there, I'm Michael Adu! 👋
+# Hi there, I'm Michael Adu! 
 
 <div align="center">
 
 [![Credly Profile](https://img.shields.io/badge/Credly-20+_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/michael-adu)
-[![Data Science](https://img.shields.io/badge/IBM-Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/users/michael-adu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Data Science](https://img.shields.io/badge/IBM-Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/earner/earned/badge/d358abea-2844-43d1-93c7-79da49effd53)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drmichael-adu)
 
 </div>
 
