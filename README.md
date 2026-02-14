@@ -130,11 +130,12 @@ domains = [
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Other Github Accounts
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drmichaeladu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+(https://github.com/Mikekay262) - Personal account used for learning and hobby projects
+
 
 </div>
 
