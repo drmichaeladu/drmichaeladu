@@ -42,7 +42,7 @@
 </td>
 <td width="50%">
 
-#### Software Engineering & DevOps
+#### IBM DevOps & Software Engineering Professional Certificate
 - ✅ Software Engineering Essentials
 - ✅ DevOps Essentials  
 - ✅ Introduction to Cloud Computing
@@ -54,11 +54,6 @@
 </td>
 </tr>
 </table>
-
-#### 📢 Digital Marketing Certifications
-- ✅ **Google Digital Marketing and E-Commerce Professional Certificate**
-- ✅ **Meta Social Media Marketing Professional Certificate**
-- ✅ **Meta Certified Digital Marketing Associate** (Expired Mar 2025)
 
 ---
 
