@@ -125,13 +125,13 @@ domains = [
 
 ## 📈 Career Focus
 
-🎯 **Current Work**: Developing data analysis tools for antimicrobial resistance surveillance, integrating WHONET data with GLASS reporting standards, and building health data pipelines for public health decision-making.
+🎯 **Current Work**: Developing data analysis tools for antimicrobial resistance surveillance, supporting the integration of AMR, AMU and AMC data in OneHealth framework ,supporting in country capacity building in AMR data management with WHONET and building health data pipelines for public health decision-making.
 
-🚀 **Career Goals**: 
-- Advancing towards **Data Science Manager** and **Machine Learning Engineer** roles
-- Building AI/ML solutions for healthcare in Africa
-- Contributing to global health data standards and AMR surveillance
+🚀 **Career Goals**:
 - Pursuing advanced studies in Biostatistics
+- Building robust analystics, AI/ML solutions for healthcare in Africa
+- Contributing to global health data standards and Infectious disease surveillance
+
 
 ---
 
